@@ -2,4 +2,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepchina.pages.dev/sitemap.xml
